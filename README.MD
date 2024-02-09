@@ -2,8 +2,7 @@ PORTUGUÊS | [ENGLISH](#english)
 
 # Polls
 
-Um aplicativo backend de enquetes desenvolvido durante o evento NLW Expert pela Rocketseat.
-Desenvolvido usando Node.js, Postgres, Redis, WebSocket e PrismaORM
+Desenvolvimento de uma aplicação back-end em Node.js, aplicação dos conceitos de API REST, utilizando TypeScript, Fastify como framework, integração do Prisma ORM, Docker para lidar com serviços de PostgreSQL e Redis, Zod para validação de dados e WebSocket para comunicação real-time.
 
 ## Tabela de Conteúdos
 
@@ -32,8 +31,7 @@ Desenvolvido usando Node.js, Postgres, Redis, WebSocket e PrismaORM
 
 # Polls
 
-A backend poll app developed during the NLW Expert event by Rocketseat.
-Developed using Node.js, Postgres, Redis, WebSocket and PrismaORM
+Development of a Node.js backend application, applying REST API concepts, using TypeScript, Fastify as a framework, integrating Prisma ORM, Docker to handle PostgreSQL and Redis services, Zod for data validation, and WebSocket for real-time communication.
 
 ## Table of Contents
 
